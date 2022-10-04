@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>msgCuentaBloqueda</name>
+   <tag></tag>
+   <elementGuidId>fdd989f6-e60a-4928-92ae-3cdf8d64de36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.sc-iCfMLu.sc-furwcr.fZnrvf.bZFHy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@type='2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>17af2b46-7822-45e5-8ca9-fc7b54b26cd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>912300a2-13dc-4726-9999-6c0786722e23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-iCfMLu sc-furwcr fZnrvf bZFHy</value>
+      <webElementGuid>66be1997-2e56-4513-9db8-d61da04ffee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tu cuenta fue bloqueada por exceso de errores.  Desbloquear.</value>
+      <webElementGuid>cbb7e29e-0803-4c27-9a6c-1f07e22dd231</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cimoa9ta5r&quot;)/div[@class=&quot;Toastify__toast-body&quot;]/div[@class=&quot;sc-gGPzkF jaXTdg&quot;]/div[@class=&quot;toast-body__text&quot;]/p[@class=&quot;sc-iCfMLu sc-furwcr fZnrvf bZFHy&quot;]</value>
+      <webElementGuid>a4cdbd79-8f99-4c4c-bfe0-3afca4012fd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@type='2']</value>
+      <webElementGuid>81a271d2-c99b-47bd-a71a-25bd9ac0434e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cimoa9ta5r']/div/div/div[2]/p</value>
+      <webElementGuid>9f0a9cbd-84f9-468a-89c5-d7d8a626826a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingresá con tu mail'])[1]/preceding::p[1]</value>
+      <webElementGuid>53de3a17-0a20-4020-aaaf-31779a5bfd6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tu cuenta fue bloqueada por exceso de errores.']/parent::*</value>
+      <webElementGuid>e8303760-2cc7-4d9e-bad1-6a0d26255438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>49469b51-2206-48a2-bed7-fff7df77beeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@type = '2' and (text() = 'Tu cuenta fue bloqueada por exceso de errores.  Desbloquear.' or . = 'Tu cuenta fue bloqueada por exceso de errores.  Desbloquear.')]</value>
+      <webElementGuid>fcd38e43-10b8-4d78-8b4b-ecf8feaae412</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

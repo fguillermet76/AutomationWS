@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtMailMessage</name>
+   <tag></tag>
+   <elementGuidId>c3e2dbc6-4892-49d3-aaf5-9785f7e0931c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>pre</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mail']/pre</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>pre</value>
+      <webElementGuid>5ff6bbf3-4cdd-463e-bb3a-3516ab4905f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Para recuperar su contraseña ingrese a este link https://paywayqa.page.link/?link=https://paywayqa.page.link/?params=%7B%22uuid%22%3A%2236858748-c55a-4b20-bcb8-675612f3f84e%22%2C%22tabs%22%3A%22login%22%2C%22screens%22%3A%5B%22recoverpassword%22%5D%7D&amp;apn=com.prismamp.mobile.comercios&amp;afl=https://play.google.com/store/apps/details?id=com.prismamp.mobile.comercios&amp;hl=es_UY&amp;ibi=com.prisma.phe&amp;ifl=https://apps.apple.com/us/app/prisma-mp-comercios/id1550133741&amp;ofl=https://the-payway-qa.redbee.cl/ms/ui-login/login/cambiar-clave/36858748-c55a-4b20-bcb8-675612f3f84e</value>
+      <webElementGuid>f8b74fe8-1a39-4414-8a56-74b69ebfd487</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mail&quot;)/pre[1]</value>
+      <webElementGuid>78f0aec4-7bbf-4a99-81ab-6bb789acaddf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/03-YopMail/03-2-YopMail-MailMessage/frmMailMsg</value>
+      <webElementGuid>382d5077-02ba-44f8-99a0-74bf49bf9e10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mail']/pre</value>
+      <webElementGuid>f535ce59-f7e9-4e09-a1e7-4f89f951d4a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::pre[1]</value>
+      <webElementGuid>35b299ab-fac3-40df-a9b7-2e49ce1cd686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='viernes, 15 de julio de 2022 11:16:23'])[1]/following::pre[1]</value>
+      <webElementGuid>51448c58-aa9d-4f05-906a-ff3afebb3756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[2]/preceding::pre[1]</value>
+      <webElementGuid>9bd3030c-aa2c-4cf2-a8d4-e2f2938a8812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responder'])[2]/preceding::pre[1]</value>
+      <webElementGuid>b17af05a-9a0c-4a3a-b9d2-84c592d131d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Para recuperar su contraseña ingrese a este link https://paywayqa.page.link/?link=https://paywayqa.page.link/?params=%7B%22uuid%22%3A%2236858748-c55a-4b20-bcb8-675612f3f84e%22%2C%22tabs%22%3A%22login%22%2C%22screens%22%3A%5B%22recoverpassword%22%5D%7D&amp;apn=com.prismamp.mobile.comercios&amp;afl=https://play.google.com/store/apps/details?id=com.prismamp.mobile.comercios&amp;hl=es_UY&amp;ibi=com.prisma.phe&amp;ifl=https://apps.apple.com/us/app/prisma-mp-comercios/id1550133741&amp;ofl=https://the-payway-qa.redbee.cl/ms/ui-login/login/cambiar-clave/36858748-c55a-4b20-bcb8-675612f3f84e']/parent::*</value>
+      <webElementGuid>1ccc6f8e-8579-4dfa-aa9c-4ff0275dabc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//pre</value>
+      <webElementGuid>ac166cb0-b413-43bd-8832-4ed90fe60e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//pre[(text() = 'Para recuperar su contraseña ingrese a este link https://paywayqa.page.link/?link=https://paywayqa.page.link/?params=%7B%22uuid%22%3A%2236858748-c55a-4b20-bcb8-675612f3f84e%22%2C%22tabs%22%3A%22login%22%2C%22screens%22%3A%5B%22recoverpassword%22%5D%7D&amp;apn=com.prismamp.mobile.comercios&amp;afl=https://play.google.com/store/apps/details?id=com.prismamp.mobile.comercios&amp;hl=es_UY&amp;ibi=com.prisma.phe&amp;ifl=https://apps.apple.com/us/app/prisma-mp-comercios/id1550133741&amp;ofl=https://the-payway-qa.redbee.cl/ms/ui-login/login/cambiar-clave/36858748-c55a-4b20-bcb8-675612f3f84e' or . = 'Para recuperar su contraseña ingrese a este link https://paywayqa.page.link/?link=https://paywayqa.page.link/?params=%7B%22uuid%22%3A%2236858748-c55a-4b20-bcb8-675612f3f84e%22%2C%22tabs%22%3A%22login%22%2C%22screens%22%3A%5B%22recoverpassword%22%5D%7D&amp;apn=com.prismamp.mobile.comercios&amp;afl=https://play.google.com/store/apps/details?id=com.prismamp.mobile.comercios&amp;hl=es_UY&amp;ibi=com.prisma.phe&amp;ifl=https://apps.apple.com/us/app/prisma-mp-comercios/id1550133741&amp;ofl=https://the-payway-qa.redbee.cl/ms/ui-login/login/cambiar-clave/36858748-c55a-4b20-bcb8-675612f3f84e')]</value>
+      <webElementGuid>716976ef-c71f-4be8-9dd4-13eb8e4b9ab3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

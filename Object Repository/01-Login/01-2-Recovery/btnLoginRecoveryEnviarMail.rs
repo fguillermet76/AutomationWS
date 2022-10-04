@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnLoginRecoveryEnviarMail</name>
+   <tag></tag>
+   <elementGuidId>50d8e21e-68bd-465c-ac06-97b9d241964b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.sc-crHmcD.epIUwK</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>74d4552d-1419-4ab1-8cd3-b12355521794</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>2817e1af-de7c-4283-812c-0ddf203c1af0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-crHmcD epIUwK</value>
+      <webElementGuid>27bdce2b-58e1-4817-b782-13ae1a341ffe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enviar correo</value>
+      <webElementGuid>557a00d3-7050-4b45-bc00-5c0f940cf4d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:login&quot;)/div[@class=&quot;app__content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;recover&quot;]/div[@class=&quot;sc-ezbkAF dvuZag&quot;]/form[@class=&quot;form__recover&quot;]/div[@class=&quot;form__footer&quot;]/div[@class=&quot;footer__btn&quot;]/button[@class=&quot;sc-crHmcD epIUwK&quot;]</value>
+      <webElementGuid>edfdd296-fa1c-4f5c-b456-e4dcf6a7755d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>e9433e68-3723-4bad-8c2e-699decae2cf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:login']/div/div/div/div[2]/form/div[3]/div/button</value>
+      <webElementGuid>12141eaf-8681-429e-90c8-190e0e95982f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mail registrado'])[1]/following::button[1]</value>
+      <webElementGuid>6a99ace0-61d1-4544-bce3-27824572b8a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hola, ¿necesitás ayuda con tu contraseña?'])[1]/following::button[1]</value>
+      <webElementGuid>5a66a971-9451-46a5-8dbd-f62a6d44a382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Recordaste tu contraseña? Iniciá sesión'])[1]/preceding::button[1]</value>
+      <webElementGuid>05b22929-b428-41ab-9efd-e53d2bf47c75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
+      <webElementGuid>f9fd6879-0b9b-45bc-b68d-d2790e9c7129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enviar correo']/parent::*</value>
+      <webElementGuid>4cf07d73-d0d6-4801-a46e-183de39936d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>3b64dd3d-cef7-4dc3-8e29-357fb8a0f52f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Enviar correo' or . = 'Enviar correo')]</value>
+      <webElementGuid>7ca5f5eb-9fd7-472c-a4e7-ab86a0d09931</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

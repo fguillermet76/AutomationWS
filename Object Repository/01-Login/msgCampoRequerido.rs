@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>msgCampoRequerido</name>
+   <tag></tag>
+   <elementGuidId>1a1b092c-23cf-4c30-b237-7092f460a2f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@type='4'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;single-spa-application:login&quot;)/div[@class=&quot;app__content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;login&quot;]/div[@class=&quot;sc-ezbkAF dvuZag&quot;]/form[@class=&quot;login__form&quot;]/div[@class=&quot;form__body form__body--login&quot;]/div[@class=&quot;body__item&quot;]/div[@class=&quot;sc-fotOHu cZSGXX&quot;]/div[@class=&quot;sc-dJjYzT dkiDIK&quot;]/span[@class=&quot;sc-iCfMLu jDcdeA&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6175357a-4d14-47cd-9e87-3dc1266f953c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>f116a233-2f49-4925-94bf-9b82fb8610a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-iCfMLu jDcdeA</value>
+      <webElementGuid>e2c38ba2-541a-4f84-8c7c-af3f3d3c3a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Campo Requerido</value>
+      <webElementGuid>0af95246-36f3-41f9-aa7d-825d094a3e08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:login&quot;)/div[@class=&quot;app__content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;login&quot;]/div[@class=&quot;sc-ezbkAF dvuZag&quot;]/form[@class=&quot;login__form&quot;]/div[@class=&quot;form__body form__body--login&quot;]/div[@class=&quot;body__item&quot;]/div[@class=&quot;sc-fotOHu cZSGXX&quot;]/div[@class=&quot;sc-dJjYzT dkiDIK&quot;]/span[@class=&quot;sc-iCfMLu jDcdeA&quot;]</value>
+      <webElementGuid>f54fff30-e89a-43ef-9cf8-d39acfb0fb67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//span[@type='4'])[2]</value>
+      <webElementGuid>3a3409e3-b330-4f40-8aac-22cbef59f4a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:login']/div/div/div/div[2]/form/div[2]/div[2]/div/div[3]/span</value>
+      <webElementGuid>74e83068-508a-4f2a-9935-50bd19a984a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contraseña'])[1]/following::span[1]</value>
+      <webElementGuid>7f90b2b5-1c61-4b79-8835-86fedf63a738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='El mail está mal escrito. Asegurate de que sea el correcto.'])[1]/following::span[1]</value>
+      <webElementGuid>00c598f9-725f-4c57-9e39-97d828304d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Olvidaste tu contraseña?'])[1]/preceding::span[1]</value>
+      <webElementGuid>34c8394a-e92d-4109-9904-783d53ce3e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingresar'])[1]/preceding::span[1]</value>
+      <webElementGuid>f5b9c7d7-de89-4341-85b9-ad14ebe8ca27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Campo Requerido']/parent::*</value>
+      <webElementGuid>c25d1400-c032-4fca-a15d-a0dde9717593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/span</value>
+      <webElementGuid>81088f60-5503-46e6-8c81-98ded7c32570</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@type = '4' and (text() = 'Campo Requerido' or . = 'Campo Requerido')]</value>
+      <webElementGuid>f42cc1d8-8ff1-4765-9934-dd2c045a37db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login utilizando User &amp; Pswd correctos</description>
+   <name>LGN01-Login HC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17dac242-e758-4b69-ac33-d05776f99f73</testCaseGuid>
+</TestCaseEntity>

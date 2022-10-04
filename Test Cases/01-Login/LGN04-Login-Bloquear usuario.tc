@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login utilizando User &amp; Pswd correctos</description>
+   <name>LGN04-Login-Bloquear usuario</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd05f728-4627-4638-8a3d-eab19c2a5cd6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnIniciarTutorial</name>
+   <tag></tag>
+   <elementGuidId>e54fd543-9a8b-4c81-8d4f-ed311bbf4a04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@type='2'])[33]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.sc-iCfMLu.crKxsc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5e86144f-ac4a-4d5e-9ae0-b7618be3dfc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>fa7dee20-1037-4ead-acaf-7a70dd0566b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-iCfMLu crKxsc</value>
+      <webElementGuid>e36cd37a-8768-4f2e-bb54-763343c58018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Iniciar el tutorial</value>
+      <webElementGuid>b57547ce-0f75-46ae-9a10-db73a08a1aa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ReactModal__Body--open&quot;]/div[@class=&quot;ReactModalPortal&quot;]/div[@class=&quot;ReactModal__Overlay ReactModal__Overlay--after-open&quot;]/div[@class=&quot;ReactModal__Content ReactModal__Content--after-open modal-size-md&quot;]/div[@class=&quot;sc-hJZKUC cEGnLa&quot;]/div[@class=&quot;sc-ewSTlh kvHlky&quot;]/div[@class=&quot;sc-jvvksu fOuEKP&quot;]/div[@class=&quot;sc-edERGn ilPBzh&quot;]/div[@class=&quot;sc-jlsrNB kmIarA&quot;]/div[1]/button[@class=&quot;sc-crHmcD geLNiP&quot;]/span[@class=&quot;sc-iCfMLu crKxsc&quot;]</value>
+      <webElementGuid>8e3a8761-793d-4904-a66b-0b1dc7a13999</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//span[@type='2'])[33]</value>
+      <webElementGuid>ed04df9c-8bfa-4f7d-b3d4-9e9543112c02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ahora somos Payway'])[1]/following::span[1]</value>
+      <webElementGuid>ee645548-396e-4414-a0d9-2a8fd465fda4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::span[1]</value>
+      <webElementGuid>4ad3c98b-d364-461c-b05f-0419bc4fcbea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Omitir'])[1]/preceding::span[1]</value>
+      <webElementGuid>ce6eb86b-72bb-4fca-879f-31c7c5474aac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Iniciar el tutorial']/parent::*</value>
+      <webElementGuid>900cd018-c16d-48cd-87e8-c7578a2c45ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>6229f17a-e875-4dae-8891-9404b7a9dacb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@type = '2' and (text() = 'Iniciar el tutorial' or . = 'Iniciar el tutorial')]</value>
+      <webElementGuid>5520031d-0247-402b-af03-22781a3ebebd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

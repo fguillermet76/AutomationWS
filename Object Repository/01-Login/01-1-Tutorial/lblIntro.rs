@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lblIntro</name>
+   <tag></tag>
+   <elementGuidId>f20dbe3a-48b8-4c6e-824d-da7952fa2cc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//h4[@type='4'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4.sc-gKclnd.bjVdZq</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>43c27cfa-24ce-46af-9f16-1558601bcb07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>ca3bce28-95af-468f-a561-dbfb356c7520</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-gKclnd bjVdZq</value>
+      <webElementGuid>617b9a4e-d41f-4df3-9796-f545376a82a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ahora somos Payway</value>
+      <webElementGuid>748f33e6-304a-4d4f-b6c5-925029ab2f28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ReactModal__Body--open&quot;]/div[@class=&quot;ReactModalPortal&quot;]/div[@class=&quot;ReactModal__Overlay ReactModal__Overlay--after-open&quot;]/div[@class=&quot;ReactModal__Content ReactModal__Content--after-open modal-size-md&quot;]/div[@class=&quot;sc-hJZKUC cEGnLa&quot;]/div[@class=&quot;sc-ewSTlh kvHlky&quot;]/div[@class=&quot;sc-jvvksu fOuEKP&quot;]/div[@class=&quot;payway-step-one&quot;]/h4[@class=&quot;sc-gKclnd bjVdZq&quot;]</value>
+      <webElementGuid>80e1a189-0f4e-42e8-95c4-8be745f76363</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//h4[@type='4'])[4]</value>
+      <webElementGuid>c19ad862-a0f0-48c7-9379-611c2f9f26a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::h4[1]</value>
+      <webElementGuid>fb86e769-645c-4341-8ee7-3a85ac21c64d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::h4[1]</value>
+      <webElementGuid>24e27b9f-2936-433b-a1b9-2340615c360e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iniciar el tutorial'])[1]/preceding::h4[1]</value>
+      <webElementGuid>97c352b9-78ff-4600-8334-281764c88acc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Omitir'])[1]/preceding::h4[1]</value>
+      <webElementGuid>88b6bee3-7de3-4d92-8f21-b26584edc4b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ahora somos Payway']/parent::*</value>
+      <webElementGuid>7be28f3a-62da-4f7e-944b-6b663a1cb2f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h4</value>
+      <webElementGuid>be95b5c0-a1e4-45e5-9851-36f9b6acc757</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[@type = '4' and (text() = 'Ahora somos Payway' or . = 'Ahora somos Payway')]</value>
+      <webElementGuid>d1f681ab-ff94-490b-bbb1-55277764c03a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

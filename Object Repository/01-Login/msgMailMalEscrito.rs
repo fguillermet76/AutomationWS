@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>msgMailMalEscrito</name>
+   <tag></tag>
+   <elementGuidId>54c52891-a8c5-4d95-b776-930b0e6f2e7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@type='4']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.sc-iCfMLu.jDcdeA</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;single-spa-application:login&quot;)/div[@class=&quot;app__content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;login&quot;]/div[@class=&quot;sc-ezbkAF dvuZag&quot;]/form[@class=&quot;login__form&quot;]/div[@class=&quot;form__body form__body--login&quot;]/div[@class=&quot;body__item&quot;]/div[@class=&quot;sc-fotOHu cZSGXX&quot;]/div[@class=&quot;sc-dJjYzT dkiDIK&quot;]/span[@class=&quot;sc-iCfMLu jDcdeA&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1d4c853a-65c3-4ec6-99f0-f14cd6ffd560</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>55c78b63-b256-4bea-bd97-849bf53bf108</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-iCfMLu jDcdeA</value>
+      <webElementGuid>2cdd8bc7-75bb-44a9-b94c-48baf344cc2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>El mail está mal escrito. Asegurate de que sea el correcto.</value>
+      <webElementGuid>7cdfdc89-f1c9-4216-a299-944dc541aa73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:login&quot;)/div[@class=&quot;app__content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;login&quot;]/div[@class=&quot;sc-ezbkAF dvuZag&quot;]/form[@class=&quot;login__form&quot;]/div[@class=&quot;form__body form__body--login&quot;]/div[@class=&quot;body__item&quot;]/div[@class=&quot;sc-fotOHu cZSGXX&quot;]/div[@class=&quot;sc-dJjYzT dkiDIK&quot;]/span[@class=&quot;sc-iCfMLu jDcdeA&quot;]</value>
+      <webElementGuid>9648276c-a293-4fd3-b2b4-ad3d2f4e6559</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@type='4']</value>
+      <webElementGuid>60a5269d-4e4b-477c-832d-92d15920c556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:login']/div/div/div/div[2]/form/div[2]/div/div/div[3]/span</value>
+      <webElementGuid>42edc685-6b4a-4ef9-aca0-d55724a9c739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingresá con tu mail'])[1]/following::span[1]</value>
+      <webElementGuid>729de929-0893-450d-a04f-d280efab8b07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contraseña'])[1]/preceding::span[1]</value>
+      <webElementGuid>b2fc6034-f601-425e-af76-726262c32aca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Olvidaste tu contraseña?'])[1]/preceding::span[1]</value>
+      <webElementGuid>dcf00241-deb2-446c-9ff5-e9b490d29f20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='El mail está mal escrito. Asegurate de que sea el correcto.']/parent::*</value>
+      <webElementGuid>bff17a26-e2f1-42c1-a57a-63927e5f3609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>f907bdb3-5e08-4ed8-9e22-232b67e723ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@type = '4' and (text() = 'El mail está mal escrito. Asegurate de que sea el correcto.' or . = 'El mail está mal escrito. Asegurate de que sea el correcto.')]</value>
+      <webElementGuid>b387907a-9705-4f01-8615-5809c95930e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

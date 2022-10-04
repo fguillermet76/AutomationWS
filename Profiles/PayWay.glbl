@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>PayWay</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>URL</description>
+      <initValue>findTestData('00-Sistema/PWY-Sistema').getValue(2, 1)</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>URLYopMail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Usuario login</description>
+      <initValue>findTestData('01-Login/LGNData-Usuarios').getValue(1, 1)</initValue>
+      <name>LoginUser</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password usuario</description>
+      <initValue>findTestData('01-Login/LGNData-Usuarios').getValue(2, 1)</initValue>
+      <name>LoginPswd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Usuario incorrecto</description>
+      <initValue>findTestData('01-Login/LGNData-Usuarios').getValue(4, 1)</initValue>
+      <name>LoginBadUser</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password incorrecto</description>
+      <initValue>findTestData('01-Login/LGNData-Usuarios').getValue(3, 1)</initValue>
+      <name>LoginBadPswd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Mail mal escrito</description>
+      <initValue>findTestData('01-Login/LGNData-Usuarios').getValue(5, 1)</initValue>
+      <name>LoginMalMalEscrito</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
